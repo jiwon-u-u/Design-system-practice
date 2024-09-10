@@ -1,1 +1,80 @@
-
+{
+  "Background": {
+    "Primary": {
+      "value": "{Common.White}",
+      "type": "color"
+    },
+    "Secondary": {
+      "value": "{Gray.50}",
+      "type": "color"
+    },
+    "elecated": {
+      "value": "{Common.White}",
+      "type": "color"
+    }
+  },
+  "Primary": {
+    "Normal": {
+      "value": "{\bBlue.400}",
+      "type": "color"
+    },
+    "Medium": {
+      "value": "{\bBlue.300}",
+      "type": "color"
+    },
+    "Light": {
+      "value": "{\bBlue.100}",
+      "type": "color"
+    },
+    "Heavy": {
+      "value": "{\bBlue.800}",
+      "type": "color"
+    }
+  },
+  "Text": {
+    "Primary": {
+      "value": "{Gray.800}",
+      "type": "color"
+    },
+    "Secondary": {
+      "value": "{Gray.600}",
+      "type": "color"
+    },
+    "Disable": {
+      "value": "{Gray.100}",
+      "type": "color"
+    },
+    "Error": {
+      "value": "{Red.500}",
+      "type": "color"
+    },
+    "Caption": {
+      "value": "{Gray.300}",
+      "type": "color"
+    }
+  },
+  "Dim": {
+    "thick": {
+      "value": "#12121266",
+      "type": "color"
+    },
+    "basic": {
+      "value": "#d1d1d180",
+      "type": "color"
+    },
+    "thin": {
+      "value": "#ffffff26",
+      "type": "color"
+    }
+  },
+  "Border": {
+    "thin": {
+      "value": "{Gray.100}",
+      "type": "color"
+    },
+    "basic": {
+      "value": "#0000001a",
+      "type": "color"
+    }
+  }
+}
